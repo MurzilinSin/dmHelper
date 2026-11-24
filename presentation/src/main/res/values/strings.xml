@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">dmHelper</string>
+    <string name="battle_title">Трекер боя</string>
+    <string name="create_battle">Создать бой</string>
+    <string name="no_active_battle">Нет активного боя</string>
+    <string name="preparation">Подготовка</string>
+    <string name="round">Раунд %1$d</string>
+    <string name="active_turn">Ходит %1$s</string>
+    <string name="start_battle">Начать бой</string>
+    <string name="next_turn">Следующий ход</string>
+    <string name="finish_battle">Завершить бой</string>
+    <string name="finish_question">Завершить бой?</string>
+    <string name="finish_message">Текущий бой и его участники будут удалены.</string>
+    <string name="finish_confirm">Завершить</string>
+    <string name="empty_roster">Добавь первого участника</string>
+    <string name="add_participant">Добавить участника</string>
+    <string name="name_label">Название</string>
+    <string name="hp_label">ХП</string>
+    <string name="initiative_label">Инициатива</string>
+    <string name="hp_value">%1$d ХП</string>
+    <string name="edit_hp">Изменить ХП</string>
+    <string name="hp_description">ХП участника %1$s. Текущее значение %2$d.</string>
+    <string name="initiative_description">Инициатива %1$d</string>
+    <string name="reorder_participant">Переместить %1$s</string>
+    <string name="move_up">Выше</string>
+    <string name="move_down">Ниже</string>
+    <string name="current_turn">Текущий ход</string>
+    <string name="add">Добавить</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="input_name_error">Введи название.</string>
+    <string name="input_hp_error">Введи целое число от 0.</string>
+    <string name="input_initiative_error">Введи целое число.</string>
+    <string name="load_error">Не удалось открыть сохранённый бой.</string>
+    <string name="save_error">Не удалось сохранить изменение.</string>
+    <string name="retry">Повторить</string>
+</resources>
