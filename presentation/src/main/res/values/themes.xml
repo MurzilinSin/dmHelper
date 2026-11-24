@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.DmHelper" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#171613</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:colorAccent">#F2C98D</item>
+    </style>
+</resources>
